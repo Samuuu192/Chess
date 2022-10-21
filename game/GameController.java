@@ -2,7 +2,7 @@ package chess.game;
 
 import javafx.fxml.FXML;
 import javafx.scene.Node;
-import javafx.scene.input.*;
+import javafx.scene.input.MouseEvent;
 
 public class GameController {
 
@@ -12,7 +12,7 @@ public class GameController {
     @FXML
     void dragPiece(MouseEvent event) {
         Node img = (Node) event.getSource();
-        img.setOnDragDetected(MouseEvent -> {
+        img.setOnMousePressed(MouseEvent -> {
             x = MouseEvent.getX();
             y = MouseEvent.getY();
         });

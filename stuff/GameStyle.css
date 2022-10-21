@@ -5,7 +5,7 @@ AnchorPane{
 	-fx-background-repeat: repeat;
 }
 
-GridPane{
+Pane{
 	background-image: url("../graphics/board.jpg");
 	background-repeat: repeat;
 	-fx-background-image: url("../graphics/board.jpg");

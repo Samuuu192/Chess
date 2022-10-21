@@ -36,162 +36,162 @@
             <Cursor fx:constant="OPEN_HAND" />
          </cursor>
          <children>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true">
                <image>
                   <Image url="@../graphics/Black_rook.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1">
                <image>
                   <Image url="@../graphics/Black_knight.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2">
                <image>
                   <Image url="@../graphics/Black_bishop.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3">
                <image>
                   <Image url="@../graphics/Black_queen.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4">
                <image>
                   <Image url="@../graphics/Black_king.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="5">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="5">
                <image>
                   <Image url="@../graphics/Black_bishop.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6">
                <image>
                   <Image url="@../graphics/Black_knight.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7">
                <image>
                   <Image url="@../graphics/Black_rook.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="1">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="1">
                <image>
                   <Image url="@../graphics/black_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1">
                <image>
                   <Image url="@../graphics/black_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="1">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="1">
                <image>
                   <Image url="@../graphics/black_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="1">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="1">
                <image>
                   <Image url="@../graphics/black_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4" GridPane.rowIndex="1">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4" GridPane.rowIndex="1">
                <image>
                   <Image url="@../graphics/black_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="5" GridPane.rowIndex="1">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="5" GridPane.rowIndex="1">
                <image>
                   <Image url="@../graphics/black_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6" GridPane.rowIndex="1">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6" GridPane.rowIndex="1">
                <image>
                   <Image url="@../graphics/black_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7" GridPane.rowIndex="1">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7" GridPane.rowIndex="1">
                <image>
                   <Image url="@../graphics/black_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="6">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="6">
                <image>
                   <Image url="@../graphics/White_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="6">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="6">
                <image>
                   <Image url="@../graphics/White_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="6">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="6">
                <image>
                   <Image url="@../graphics/White_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="6">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="6">
                <image>
                   <Image url="@../graphics/White_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4" GridPane.rowIndex="6">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4" GridPane.rowIndex="6">
                <image>
                   <Image url="@../graphics/White_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="5" GridPane.rowIndex="6">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="5" GridPane.rowIndex="6">
                <image>
                   <Image url="@../graphics/White_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6" GridPane.rowIndex="6">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6" GridPane.rowIndex="6">
                <image>
                   <Image url="@../graphics/White_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7" GridPane.rowIndex="6">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7" GridPane.rowIndex="6">
                <image>
                   <Image url="@../graphics/White_pawn.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="7">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="7">
                <image>
                   <Image url="@../graphics/White_rook.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="7">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="7">
                <image>
                   <Image url="@../graphics/White_knight.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="7">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="7">
                <image>
                   <Image url="@../graphics/White_bishop.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="7">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="7">
                <image>
                   <Image url="@../graphics/White_king.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4" GridPane.rowIndex="7">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4" GridPane.rowIndex="7">
                <image>
                   <Image url="@../graphics/White_queen.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="5" GridPane.rowIndex="7">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="5" GridPane.rowIndex="7">
                <image>
                   <Image url="@../graphics/White_bishop.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6" GridPane.rowIndex="7">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6" GridPane.rowIndex="7">
                <image>
                   <Image url="@../graphics/White_knight.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDropped="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7" GridPane.rowIndex="7">
+            <ImageView fitHeight="75.0" fitWidth="75.0" onDragDetected="#dragPiece" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7" GridPane.rowIndex="7">
                <image>
                   <Image url="@../graphics/White_rook.png" />
                </image>

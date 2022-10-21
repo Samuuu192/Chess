@@ -10,7 +10,7 @@ public class GameController {
     private double y;
 
     @FXML
-    void dragPiece(DragEvent event) {
+    void dragPiece(MouseEvent event) {
         Node img = (Node) event.getSource();
         img.setOnDragDetected(MouseEvent -> {
             x = MouseEvent.getX();

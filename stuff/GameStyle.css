@@ -1,0 +1,13 @@
+AnchorPane{
+	background-image: url("../graphics/background.jpg");
+	background-repeat: repeat;
+	-fx-background-image: url("../graphics/background.jpg");
+	-fx-background-repeat: repeat;
+}
+
+GridPane{
+	background-image: url("../graphics/board.jpg");
+	background-repeat: repeat;
+	-fx-background-image: url("../graphics/board.jpg");
+	-fx-background-repeat: repeat;
+}

@@ -16,12 +16,7 @@ public class GameController {
             x = MouseEvent.getX();
             y = MouseEvent.getY();
         });
-
-        img.setOnDragDetected(MouseEvent -> {
-            img.setLayoutX(MouseEvent.getSceneX() - x);
-            img.setLayoutY(MouseEvent.getSceneX() - y);
-        });
-
+        System.out.format("X: %.2f | Y: %.2f\n",x,y);
     }
 
 }
